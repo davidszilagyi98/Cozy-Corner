@@ -1,1 +1,1 @@
-# Cozy-Corner
+# CozyCorner
